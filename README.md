@@ -1,4 +1,4 @@
-# Green Technlology 
+# Green Technlology by Rails Ruby Framework
 
 # Table of Content
 * Installation
