@@ -1,4 +1,4 @@
-# Green Technlology by Rails Ruby Framework
+# New Innovation and  Technlology Project by Rails Ruby Framework
 
 # Table of Content
 * Installation
